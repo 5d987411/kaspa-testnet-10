@@ -1,0 +1,2 @@
+this is a wallet test
+kaspatest:qzwxje97vr9umgncf6fztcsp2ylk9kpe62kw0nhfyys07xfgdpy9xpmlpuprt
