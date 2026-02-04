@@ -1,2 +1,7 @@
 this is a wallet test
+
+kaspatest:qp6tqvsgpnykrttt4tru3dvqtaln4hv36frrc6q46t2frs08mvq4cna03zlyy
+
+
+
 kaspatest:qzwxje97vr9umgncf6fztcsp2ylk9kpe62kw0nhfyys07xfgdpy9xpmlpuprt
