@@ -1,10 +1,9 @@
 this is a wallet test
 
+kaspatest:qp0gz6pz0640shjmazxgvx94v5kn6as9rtdh5tdwkzyxs2yxc257wanzr230e
 
 kaspatest:qqs9kuke70y0trzhg5euq6rrv9qguwf7nmd0q28mmnv9p5duxlu2cdwuveugg
 
 kaspatest:qp6tqvsgpnykrttt4tru3dvqtaln4hv36frrc6q46t2frs08mvq4cna03zlyy
-
-
 
 kaspatest:qzwxje97vr9umgncf6fztcsp2ylk9kpe62kw0nhfyys07xfgdpy9xpmlpuprt
