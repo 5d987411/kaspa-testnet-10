@@ -1,5 +1,7 @@
 this is a wallet test
 
+kaspatest:qpgu8u3uq8j98ac600hq23ep0ct58wxhpq487ke3gc7nwaqm2rnvznmfzlvsz - dfnd
+
 kaspatest:qp0gz6pz0640shjmazxgvx94v5kn6as9rtdh5tdwkzyxs2yxc257wanzr230e
 
 kaspatest:qqs9kuke70y0trzhg5euq6rrv9qguwf7nmd0q28mmnv9p5duxlu2cdwuveugg
